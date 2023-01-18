@@ -300,7 +300,7 @@ public:
 enum interface
 {
 	Interface,
-	Insert,
+	Insert, 
 	Search,
 	Delete,
 	Display_Tree,
