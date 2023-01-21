@@ -24,4 +24,4 @@
 [//]: # (актуальные ссылки с доступом на чтение)
 
 [Доклад]: <https://docs.google.com/document/d/14JWxB4qloPjzTxHAfwo0FevCN7_jpejE/edit?usp=sharing&ouid=104049413579522181782&rtpof=true&sd=true>
-[Презентация]: <>
+[Презентация]: <https://docs.google.com/presentation/d/1n5_KIqDTFYM1CDQ139V8lGIjDwBbEldnUCkppgotjR8/edit?usp=sharing>
